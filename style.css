@@ -1,0 +1,27 @@
+body{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+  
+}
+
+.container{
+    background-color: #e78585;
+    /* max-width: 400px; */
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    gap:24px;
+}
+
+.container span {
+    padding: 12px 24px;
+    cursor: pointer;
+}
+.hands{
+    display: flex;
+    justify-content: center;
+}
+.hands-icon{
+    font-size: 12rem;
+    margin-top: -40px;
+}
