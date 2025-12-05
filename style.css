@@ -108,6 +108,7 @@ body {
 
   .hand-icon {
     font-size: 6rem;
+    margin-top: 20px;
   }
 
   .result {
@@ -116,7 +117,5 @@ body {
   .result{
     margin-top: 20px;
   }
-  .hands{
-    margin-top: 20px;
-  }
+ 
 }
