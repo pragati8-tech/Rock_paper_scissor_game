@@ -90,6 +90,7 @@ body {
   .hand-icon {
     font-size: 8rem;
   }
+  
 } 
 
 @media (max-width: 370px) {
@@ -111,5 +112,11 @@ body {
 
   .result {
     margin-top: 1rem;
+  }
+  .result{
+    margin-top: 20px;
+  }
+  .hands{
+    margin-top: 20px;
   }
 }
